@@ -27,7 +27,6 @@ public class Main {
 
 // } Driver Code Ends
 
-
 class Solution {
     public int findMaxDiff(int[] arr) {
         // code here
