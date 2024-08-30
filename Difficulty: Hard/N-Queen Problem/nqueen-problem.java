@@ -30,9 +30,6 @@ class GFG {
 }
 // } Driver Code Ends
 
-
-// User function Template for Java
-
 class Solution {
     ArrayList<ArrayList<Integer>> ans;
     public ArrayList<ArrayList<Integer>> nQueen(int n) {
