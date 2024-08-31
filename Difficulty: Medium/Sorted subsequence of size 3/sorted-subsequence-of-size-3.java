@@ -50,7 +50,6 @@ public class GFG {
 
 
 /*Complete the function below*/
-
 class Solution {
     // Function to find three numbers such that arr[smaller[i]] < arr[i] <
     // arr[greater[i]]
