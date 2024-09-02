@@ -27,7 +27,6 @@ class GFG
 }
 // } Driver Code Ends
 
-
 class Solution
 {
     //Function to return the minimum cost to react at bottom
