@@ -22,7 +22,6 @@ class GfG
 
 //User function Template for Java
 
-
 class Solution
 {
     public int minOperations(String str1, String str2) 
