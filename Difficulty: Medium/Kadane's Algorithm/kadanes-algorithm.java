@@ -35,8 +35,6 @@ class Main {
 
 // } Driver Code Ends
 
-
-// User function Template for Java
 /**
  * Class Solution contains a method to find the sum of the contiguous subarray
  * with the maximum sum in a given array.
