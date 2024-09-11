@@ -23,8 +23,6 @@ public class Main {
 
 // } Driver Code Ends
 
-
-//Back-end complete function Template for Java
 class Solution {
     // Function to return the minimum cost of connecting the ropes.
     public long minCost(long[] arr) {
