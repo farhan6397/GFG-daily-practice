@@ -146,7 +146,6 @@ class Node
 }*/
 
 //This function should return head to the DLL
-
 class Solution
 {
     //Function to convert binary tree to doubly linked list and return it.
