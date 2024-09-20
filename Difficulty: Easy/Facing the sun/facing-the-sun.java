@@ -23,21 +23,19 @@ public class Main {
 
 // } Driver Code Ends
 
-
-// User function Template for Java
-
 class Solution {
     // Returns count buildings that can see sunlight
     public int countBuildings(int[] height) {
         // code here
-        int count=1;
-        int max=height[0];
+        int max = height[0];
+        int count = 1;
+        
         for(int i=1; i<height.length; i++){
             if(max < height[i]){
                 max = height[i];
                 count++;
-                
             }
+        
         }
         return count;
     }
