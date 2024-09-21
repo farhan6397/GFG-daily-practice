@@ -152,7 +152,6 @@ class Node {
 
     }
 }*/
-
 class Solution {
     // Function to clone a linked list with next and random pointer.
     Node copyList(Node head) {
