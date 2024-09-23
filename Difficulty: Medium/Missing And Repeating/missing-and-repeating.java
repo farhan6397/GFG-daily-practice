@@ -25,8 +25,6 @@ class GFG {
 }
 // } Driver Code Ends
 
-
-// User function Template for Java
 class Solve {
     int[] findTwoElement(int arr[]) {
         int []a=new int[2];
