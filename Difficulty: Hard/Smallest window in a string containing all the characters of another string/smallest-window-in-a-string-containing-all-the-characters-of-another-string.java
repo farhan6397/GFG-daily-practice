@@ -19,7 +19,6 @@ class GFG {
 }
 // } Driver Code Ends
 
-
 class Solution
 {
     //Function to find the smallest window in the string s consisting
