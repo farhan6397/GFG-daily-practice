@@ -74,7 +74,6 @@ class Node
         next = null;
     }
 }*/
-
 class Solution {
 
     boolean isPalindrome(Node head) {
