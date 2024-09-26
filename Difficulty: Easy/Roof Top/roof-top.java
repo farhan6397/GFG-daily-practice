@@ -23,8 +23,6 @@ class gfg {
 
 // } Driver Code Ends
 
-
-
 class Solution {
     // Function to find maximum number of consecutive steps
     // to gain an increase in altitude with each step.
