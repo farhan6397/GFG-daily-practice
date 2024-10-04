@@ -66,7 +66,6 @@ class LinkedList {
         data=d;next=null;
     }
 }*/
-
 class Solution {
     // Function to reverse a circular linked list
     Node reverse(Node head) {
