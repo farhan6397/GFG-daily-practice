@@ -26,7 +26,6 @@ class GFG {
 }
 // } Driver Code Ends
 
-
 class Solution {
     // Directions for moving in 8 directions
     private final int[][] directions = {
