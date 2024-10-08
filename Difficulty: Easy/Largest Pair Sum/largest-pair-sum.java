@@ -53,8 +53,8 @@ class GFG {
 
 // } Driver Code Ends
 
-
 class Solution {
+
     public static int pairsum(int[] arr) {
         // code here
         int max=Integer.MIN_VALUE;
@@ -70,4 +70,3 @@ class Solution {
         return max+secondMax;
     }
 }
-
